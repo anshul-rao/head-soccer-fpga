@@ -1,6 +1,6 @@
 # Head Soccer FPGA Game
 
-Two-player Head Soccer game implemented on Spartan-7 FPGA with MicroBlaze processor, USB keyboard input, and HDMI output.
+Two-player Head Soccer game implemented on Spartan-7 FPGA with MicroBlaze processor, USB keyboard input, and HDMI output. This repository showcases our final project for [ECE 385](https://ece.illinois.edu/academics/courses/ece385) at the University of Illinois at Urbana-Champaign.
 
 ## Academic Integrity
 Check your course policies before using this code. You are responsible for ensuring compliance with your institution's academic integrity requirements. The author is not responsible for any violations resulting from improper use.
