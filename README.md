@@ -64,7 +64,7 @@ Students: Check your course policies before using this code. You are responsible
 
 ## Authors
 
-Created by [Anshul Rao](https://github.com/anshulrao) and [Varnith Aleti](https://github.com/varnithaleti) for ECE 385 Final Project, Fall 2025.
+Created by [Anshul Rao](https://github.com/anshul-rao) and [Varnith Aleti](https://github.com/varnithaleti) for ECE 385 Final Project, Fall 2025.
 
 ## Acknowledgments
 
