@@ -3,7 +3,7 @@
 Two-player Head Soccer game implemented on Spartan-7 FPGA with MicroBlaze processor, USB keyboard input, and HDMI output.
 
 ## Academic Integrity
-Students: Check your course policies before using this code. You are responsible for ensuring compliance with your institution's academic integrity requirements. The author is not responsible for any violations resulting from improper use.
+Check your course policies before using this code. You are responsible for ensuring compliance with your institution's academic integrity requirements. The author is not responsible for any violations resulting from improper use.
 
 ## Features
 
